@@ -1,0 +1,20 @@
+{
+    "Author": "Tim Springston [MSFT]",
+    "ContentSize": 11412,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/office-365-tenant-details/master/MSOLTenantDetails.ps1",
+    "DownloadCount": 11106,
+    "Id": "Office-365-Tenant-Details-c1205042",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 83,
+    "RaterCount": 10,
+    "Rating": 4.5,
+    "ReleaseDate": "2013-5-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is used to quickly retrieve all of the basic details about your Office 365 tenant and put them at your fingertips. If you are a tenant admin, or a Microsoft partner who administers tenants for your customers, this can save you a good bit of time.",
+    "Title": "Office 365 Tenant Details",
+    "UpdatedDate": "2013-5-8T00:00:00",
+    "Url": "https://github.com/azureautomation/office-365-tenant-details",
+    "UserTags": "Microsoft Azure, Office 365, domain"
+}
